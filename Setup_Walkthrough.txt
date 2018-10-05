@@ -1,0 +1,22 @@
+IF NO PYTHON INSTALLED:
+    Visit:  https://www.python.org/downloads/
+    Download Python 3.7
+    Go through setup wizard
+
+CHECK IF PYTHON IS ON PATH:
+    Open terminal (command prompt / Powershell for windows)
+    type 'python' and hit enter
+
+    If you get something like "The term 'python' is not recognized..."
+    Google 'add python to path' and follow steps
+
+
+INSTALL REQUIRED LIBRARIES:
+    Open terminal and enter the following commands:
+        'pip install scipy'
+        'pip install matplotlib'
+        'pip install pandas'
+        'pip install sklearn'
+
+    If you get an error like "The term 'pip is not recognized...'",
+    google "add pip to path" and follow steps.
